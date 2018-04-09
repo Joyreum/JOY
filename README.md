@@ -14,7 +14,6 @@ symbols: 	JOY
 total:		10 000 000
 decimals:	18
 
-
 WebSite: https://www.joyreum.com/
 
 Forum: https://bitcoingarden.org/forum/index.php?topic=31331.new#new
