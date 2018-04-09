@@ -9,10 +9,10 @@ You can implement charity donation here with BTC, ETH and other currencies and s
     Alternatively, One can transfer to our charity wallet and the equivalent in Fiat we’ll send to people-in-need.
     Selling this Token primary goal is charity donation and the project support.
     
-name: 		Joyreum
-symbols: 	JOY
-total:		10 000 000
-decimals:	18
+name: Joyreum 
+Symbols: JOY
+Total: 10 000 000
+Decimals: 18
 
 WebSite: https://www.joyreum.com/
 
