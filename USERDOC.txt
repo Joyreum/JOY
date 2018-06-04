@@ -1,0 +1,7 @@
+{
+	"methods": {
+		"increaseApproval(address,uint256)": {
+			"notice": "approve should be called when allowed[_spender] == 0. To increment\r allowed value is better to use this function to avoid 2 calls (and wait until\r the first transaction is mined)\r From MonolithDAO Token.sol\r"
+		}
+	}
+}
